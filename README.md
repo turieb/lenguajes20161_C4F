@@ -1,10 +1,10 @@
-Repositorio para las prácticas de lenguajes 2016-1
+Repositorio para las prácticas de lenguajes 2016-1<br>
 
-INTEGRANTES
-Cristian Ignacio Alanis Colin
-snake_404@hotmail.com
-305232355
-
-Cesar Martin Ortiz Alarcon
-ort.alarcon@gmail.com
-306043220
+INTEGRANTES<br>
+Cristian Ignacio Alanis Colin<br>
+snake_404@hotmail.com<br>
+305232355<br>
+<br>
+Cesar Martin Ortiz Alarcon<br>
+ort.alarcon@gmail.com<br>
+306043220<br>
